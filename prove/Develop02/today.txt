@@ -1,0 +1,6 @@
+Date,Prompt,Response
+09/29/2024,What area of your daily routine would you like to improve,, and what steps will you take to do so? ,eating
+09/29/2024,How did you express love or compassion for others today,, inspired by your beliefs? ,Helped a lame person to cross the road
+09/29/2024,How did you express love or compassion for others today,, inspired by your beliefs? ,shared food
+09/29/2024,Who did you connect with in a meaningful way today? ,Grandmother
+09/29/2024,Did anyone brighten your day or show you kindness today? ,No
