@@ -1,0 +1,5 @@
+Date,Prompt,Response
+09/29/2024,Did anything unexpected happen today that surprised you? ,1
+09/29/2024,Did you achieve any success in your work,, studies or personal projects today? ,yes
+09/29/2024,Did you discover anything new or learn something interesting today? ,Glimpse of the savannah
+09/29/2024,Did someone make you feel special or make you smile today?,My mother. Encouraged me to work hard
