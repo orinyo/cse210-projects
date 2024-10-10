@@ -7,7 +7,7 @@ namespace DailyScripture
         
         static void Main()
         {
-            Scripture scripture = new Scripture("3 Nephi ", 5, 13, "Behold, I am a disciple of Jesus Christ, the Son of God. I have been called of him to declare his word among his people, that they might have everlasting life. ");
+            Scripture scripture = new Scripture("James ", 1, 5, "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.");
             Console.Clear();
             scripture.Display(); 
             Console.WriteLine("\nPress Enter to continue or type 'quit' to exit.");
