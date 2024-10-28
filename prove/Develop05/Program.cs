@@ -181,3 +181,7 @@ class MindfulnessProgram
         }
     }
 }
+
+/*
+To exceed the requirements, I implemented additional features: a custom spinner animation in all activities to enhance the pause experience, randomized prompts and reflection questions to ensure variety, and a counter that displays the total items listed in the Listing Activity, providing immediate user feedback. These additions create a more engaging and professional user interface and a dynamic activity experience. These features show thoughtful attention to user engagement and creativity beyond the core requirements.
+*/
